@@ -1,7 +1,7 @@
 # Money Field for Laravel Nova
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vyuldashev/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/vyuldashev/nova-money-field)
-[![Total Downloads](https://img.shields.io/packagist/dt/vyuldashev/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/vyuldashev/nova-money-field)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/atefr/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/atefr/nova-money-field)
+[![Total Downloads](https://img.shields.io/packagist/dt/atefr/nova-money-field.svg?style=flat-square)](https://packagist.org/packages/atefr/nova-money-field)
 
 ![screenshot 1](https://raw.githubusercontent.com/vyuldashev/nova-money-field/master/docs/user-details.png)
 
@@ -10,7 +10,7 @@
 You can install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require vyuldashev/nova-money-field
+composer require atefr/nova-money-field
 ```
 
 ## Usage
